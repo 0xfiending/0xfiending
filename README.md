@@ -1,4 +1,4 @@
-aspiring rustacean and security engineer
+aspiring rustacean + security engineer
 
 <!--
 **wtp-eth/wtp-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
