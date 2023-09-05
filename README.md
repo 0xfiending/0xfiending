@@ -1,5 +1,7 @@
 aspiring rustacean + security engineer
 
+prev: BetDexLabs, Neustar Inc
+
 <!--
 **wtp-eth/wtp-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
